@@ -32,3 +32,16 @@ Plant disease detection is crucial for every farmer, so we have created a plant 
 
 ![Screenshot 2024-07-20 174631](https://github.com/user-attachments/assets/1bbac311-e300-4d9c-b479-4e2a5e3dff8d)
 
+![Screenshot 2024-07-20 174648](https://github.com/user-attachments/assets/9bd09b65-aef2-4393-b876-d539166282f1)
+
+![Screenshot 2024-07-20 224901](https://github.com/user-attachments/assets/59cd908b-3552-436d-bd4d-91cb61a5fb2a)
+
+![Screenshot 2024-07-20 224914](https://github.com/user-attachments/assets/1a1d1429-63ea-47d9-8054-17a0fac0ff01)
+
+![Screenshot 2024-07-20 224924](https://github.com/user-attachments/assets/f5284086-1657-4f3d-a82f-a4235acdf40e)
+
+![Screenshot 2024-07-20 224933](https://github.com/user-attachments/assets/2bb51f0e-e163-43c1-8e59-b14cc3312a5b)
+
+
+
+
