@@ -30,3 +30,5 @@ Plant disease detection is crucial for every farmer, so we have created a plant 
 4. Download the pre-trained model and place it in the specified directory.
 
 
+![Screenshot 2024-07-20 174631](https://github.com/user-attachments/assets/1bbac311-e300-4d9c-b479-4e2a5e3dff8d)
+
