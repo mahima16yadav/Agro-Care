@@ -29,8 +29,4 @@ Plant disease detection is crucial for every farmer, so we have created a plant 
 
 4. Download the pre-trained model and place it in the specified directory.
 
-## Usage
 
-Run the application using:
-
-python main.py
